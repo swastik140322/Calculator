@@ -1,4 +1,4 @@
-#!/bin/bash
+s#!/bin/bash
 
 # Simple Calculator Script
 
@@ -6,7 +6,7 @@ echo "Enter first number:"
 read num1
 
 echo "Enter second number:"
-read num4
+read num2
 
 echo "Choose operation: +  -  *  /"
 read op
